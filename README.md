@@ -4,8 +4,7 @@ Get a JSON list of the PDF files in a directory
 
 Just drop this file on your webserver with PDF files in it, configure this file with the correct locations, and it should produce a JSON file like the following:
 
-
-
+```
 {
     "version": "https://jsonfeed.org/version/1",
     "user_comment": "",
@@ -33,3 +32,4 @@ Just drop this file on your webserver with PDF files in it, configure this file 
          
 	]
 }
+```
