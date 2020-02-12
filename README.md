@@ -8,7 +8,7 @@ Just drop this file on your webserver with PDF files in it, configure this file 
 {
     "version": "https://jsonfeed.org/version/1",
     "user_comment": "",
-    "title": "C4I Australia Newspaper?",
+    "title": "PDF Online Newspaper?",
     "home_page_url": "https://c4israel.org",
     "feed_url": "https://resources.yoursite.com/apps/pdf/newspaper/",
     "items":
