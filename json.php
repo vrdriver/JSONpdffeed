@@ -63,7 +63,7 @@ $feed_author = "You";
         
 	$tooutput = "";
     $files = scandir($files_dir);
-    sort($files); 
+    rsort($files); // sort files in descending order.
     
     foreach ($files as $file) 
 	{
